@@ -55,3 +55,14 @@ footer .row{
     grid-template-columns:repeat(2, 1fr);
 
 }
+
+/* Archive */
+
+.flex-box{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.col-1-2{
+    width: 50%;
+}
