@@ -1,1 +1,22 @@
 
+.main-header{
+    margin:0px 310px ;
+    margin-top: 0px 100px;
+}
+.main-header .row{
+    display: flex;
+    justify-content:space-between;
+}
+
+#container .wrap-container  {
+	margin: 0px 310px ;
+}
+
+footer{
+    margin:0px 310px;
+}
+footer .row{
+    margin: 10px 10px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
